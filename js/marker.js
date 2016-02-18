@@ -1,6 +1,6 @@
 
 
-$(function(a) {
+$(function() {
     
     // Add Marker to the Map.
     // Declare latitude and longitude of the marker in "position" of markerOptions
